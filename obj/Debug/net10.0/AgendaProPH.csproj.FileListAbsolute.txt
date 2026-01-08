@@ -1,0 +1,14 @@
+C:\Users\Henrique\Desktop\AgendaProPH\obj\Debug\net10.0\AgendaProPH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Desktop\AgendaProPH\obj\Debug\net10.0\AgendaProPH.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\AgendaProPH\obj\Debug\net10.0\AgendaProPH.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\AgendaProPH\obj\Debug\net10.0\AgendaProPH.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\AgendaProPH\bin\Debug\net10.0\AgendaProPH.exe
+C:\Users\Henrique\Desktop\AgendaProPH\bin\Debug\net10.0\AgendaProPH.deps.json
+C:\Users\Henrique\Desktop\AgendaProPH\bin\Debug\net10.0\AgendaProPH.runtimeconfig.json
+C:\Users\Henrique\Desktop\AgendaProPH\bin\Debug\net10.0\AgendaProPH.dll
+C:\Users\Henrique\Desktop\AgendaProPH\bin\Debug\net10.0\AgendaProPH.pdb
+C:\Users\Henrique\Desktop\AgendaProPH\obj\Debug\net10.0\AgendaProPH.dll
+C:\Users\Henrique\Desktop\AgendaProPH\obj\Debug\net10.0\refint\AgendaProPH.dll
+C:\Users\Henrique\Desktop\AgendaProPH\obj\Debug\net10.0\AgendaProPH.pdb
+C:\Users\Henrique\Desktop\AgendaProPH\obj\Debug\net10.0\AgendaProPH.genruntimeconfig.cache
+C:\Users\Henrique\Desktop\AgendaProPH\obj\Debug\net10.0\ref\AgendaProPH.dll
