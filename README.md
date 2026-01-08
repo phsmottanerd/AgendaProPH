@@ -1,32 +1,31 @@
-# AgendaProPH
-
-🎯 **Projeto de Controle de Projetos e Tarefas em C#**
-
-AgendaProPH é um sistema desktop em **C# com Console e Interface Gráfica (WinForms)** que permite gerenciar projetos e suas tarefas de forma prática e organizada. Este projeto foi desenvolvido como parte do meu **portfólio de desenvolvedor C# júnior**, demonstrando habilidades em:  
-
-- Criação e gerenciamento de **listas de projetos e tarefas**  
-- Implementação de **CRUD completo**  
-- Uso de **classes, listas e relacionamentos (Projeto ↔ Tarefa)**  
-- Desenvolvimento de **interface gráfica funcional** usando **WinForms**  
-- Organização de projeto e boas práticas de código  
 
 ---
 
-## **Funcionalidades**
+## **2️⃣ Dicas para “enfeitar o pavão” no GitHub**
 
-✅ Cadastrar novos projetos  
-✅ Listar projetos cadastrados  
-✅ Adicionar tarefas a um projeto específico  
-✅ Listar tarefas de um projeto específico  
-✅ Interface gráfica intuitiva com TextBoxes, Botões e DataGridView  
-✅ Mensagens de sucesso e validação de campos  
+1. **Adicionar badges**: C# ✅, .NET ✅, Windows ✅  
+2. **Screenshots da interface**:  
+   - Coloque imagens da tela do projeto, listas e formulários.  
+3. **Vídeo curto ou GIF**:  
+   - Mostre cadastro de projeto e tarefas, interface funcionando.  
+4. **Instruções claras**:  
+   - Como rodar, requisitos e versão do .NET.  
+5. **Links para LinkedIn**:  
+   - Mostre que você é ativo e organizado.  
 
 ---
 
-## **Como Executar**
+## **3️⃣ Para LinkedIn**
 
-1. Clone o repositório:  
-```bash
-git clone https://github.com/seu-usuario/AgendaProPH.git
+Use uma versão resumida, chamativa e impactante:  
 
+> 🖥️ **AgendaProPH – Sistema de Controle de Projetos e Tarefas em C#**  
+> Desenvolvi um **projeto desktop funcional**, incluindo **CRUD completo, gerenciamento de tarefas, listas relacionadas e interface gráfica em WinForms**.  
+> Mostrando **habilidades práticas em C#, organização de código e foco em usabilidade**.  
+> Projeto disponível no meu GitHub com **vídeo demonstrativo e screenshots**.  
 
+---
+
+Se você quiser, Paulo, posso **gerar também um GIF animado ou template de screenshot para colocar direto no GitHub**, deixando o repositório **com visual profissional e chamativo**.  
+
+Quer que eu faça isso?
