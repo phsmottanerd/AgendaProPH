@@ -1,31 +1,34 @@
+# AgendaProPH 🚀
+
+![C#](https://img.shields.io/badge/C%23-Visual_Studio-blue)
+![.NET](https://img.shields.io/badge/.NET-6.0-green)
+![Windows](https://img.shields.io/badge/OS-Windows-lightgrey)
+
+🎯 **Sistema de Controle de Projetos e Tarefas em C#**
+
+AgendaProPH é um projeto desktop em **C# (Console + WinForms)** que permite criar, listar e gerenciar projetos e tarefas.  
+Desenvolvido **do zero** para o meu portfólio de **Dev C# Júnior**, mostrando:  
+
+- Criação e manipulação de **listas de projetos e tarefas**  
+- **CRUD completo** com validação  
+- Relacionamento **Projeto ↔ Tarefa**  
+- Interface gráfica funcional (WinForms)  
+- Boas práticas de código e usabilidade  
 
 ---
 
-## **2️⃣ Dicas para “enfeitar o pavão” no GitHub**
+## **Funcionalidades**
 
-1. **Adicionar badges**: C# ✅, .NET ✅, Windows ✅  
-2. **Screenshots da interface**:  
-   - Coloque imagens da tela do projeto, listas e formulários.  
-3. **Vídeo curto ou GIF**:  
-   - Mostre cadastro de projeto e tarefas, interface funcionando.  
-4. **Instruções claras**:  
-   - Como rodar, requisitos e versão do .NET.  
-5. **Links para LinkedIn**:  
-   - Mostre que você é ativo e organizado.  
+✅ Cadastrar projetos e tarefas  
+✅ Listar projetos e tarefas  
+✅ Interface gráfica com **DataGridView, TextBoxes e Botões**  
+✅ Mensagens de validação e sucesso  
+✅ Preparado para evolução futura  
 
 ---
 
-## **3️⃣ Para LinkedIn**
+## **Como Executar**
 
-Use uma versão resumida, chamativa e impactante:  
-
-> 🖥️ **AgendaProPH – Sistema de Controle de Projetos e Tarefas em C#**  
-> Desenvolvi um **projeto desktop funcional**, incluindo **CRUD completo, gerenciamento de tarefas, listas relacionadas e interface gráfica em WinForms**.  
-> Mostrando **habilidades práticas em C#, organização de código e foco em usabilidade**.  
-> Projeto disponível no meu GitHub com **vídeo demonstrativo e screenshots**.  
-
----
-
-Se você quiser, Paulo, posso **gerar também um GIF animado ou template de screenshot para colocar direto no GitHub**, deixando o repositório **com visual profissional e chamativo**.  
-
-Quer que eu faça isso?
+1. Clone o repositório:  
+```bash
+git clone https://github.com/phsmottanerd/AgendaProPH.git
